@@ -1,63 +1,27 @@
-<<<<<<< HEAD
 # FanEnvy
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
+FanEnvy is a demo Angular web application generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7. It displays a welcome page featuring the Angular logo and can be used as a starting point for new projects.
 
 ## Development server
 
-To start a local development server, run:
-
-```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Run `ng generate component <component-name>` to generate a new component. You can also use `ng generate --help` to see available schematics.
 
-```bash
-ng generate component component-name
-```
+## Build
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. The production build optimizes the application for performance.
 
 ## Running unit tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
-For end-to-end (e2e) testing, run:
+Run `ng e2e` to execute end-to-end tests. Angular CLI does not come with a default e2e framework, so choose one that suits your needs.
 
-```bash
-ng e2e
-```
+## Further help
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-=======
-# fanenvy
->>>>>>> 3db00132f9199b7032ad6edcea6b22c3bbe02a91
+For more help with Angular CLI, see the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli).
